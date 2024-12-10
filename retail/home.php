@@ -1,3 +1,1 @@
-<?php
-echo "Selamat Datang"
-?>
+<h1>Home</h1>
